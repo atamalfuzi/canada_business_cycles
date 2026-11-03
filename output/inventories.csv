@@ -1,0 +1,7 @@
+investment,filter,sd,relative_sd,corr_output
+with inventories,Baxter-King,0.05433,3.73138,0.84332
+with inventories,Hamilton,0.10683,3.35340,0.81920
+with inventories,Hodrick-Prescott,0.05676,3.64782,0.81141
+without inventories,Baxter-King,0.03693,2.53614,0.76255
+without inventories,Hamilton,0.08023,2.51841,0.75728
+without inventories,Hodrick-Prescott,0.03998,2.56952,0.73024

@@ -1,0 +1,6 @@
+recession,peak,trough,fall,Baxter-King at peak,Baxter-King low,Baxter-King low quarter,Baxter-King quarters to recover,Hamilton at peak,Hamilton low,Hamilton low quarter,Hamilton quarters to recover,Hodrick-Prescott at peak,Hodrick-Prescott low,Hodrick-Prescott low quarter,Hodrick-Prescott quarters to recover
+1974-75,1974Q3,1975Q1,-0.01069,0.00496,-0.01997,1975Q2,3,0.01893,-0.03369,1975Q1,7,0.00612,-0.02459,1975Q1,5
+1981-82,1981Q2,1982Q4,-0.05491,0.02898,-0.04375,1982Q4,7,-0.00324,-0.09283,1982Q4,7,0.03301,-0.05259,1982Q4,6
+1990-92,1990Q1,1992Q2,-0.02493,0.02325,-0.02053,1992Q3,7,-0.01349,-0.08535,1992Q1,9,0.02560,-0.02262,1992Q2,8
+2008-09,2008Q3,2009Q2,-0.04534,0.01183,-0.03156,2009Q3,7,-0.00319,-0.06552,2009Q2,8,0.01878,-0.03469,2009Q2,9
+2020,2019Q4,2020Q2,-0.13623,-0.00088,-0.05831,2020Q3,4,0.01372,-0.13886,2020Q2,7,0.02135,-0.12276,2020Q2,6

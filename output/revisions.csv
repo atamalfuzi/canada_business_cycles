@@ -1,0 +1,5 @@
+filter,sample,rms_revision,corr_final,wrong_sign,sd_final,quarters
+Hamilton,all,0.01438,0.94920,0.12048,0.03286,166
+Hamilton,to 2019,0.01513,0.94786,0.13571,0.02953,140
+Hodrick-Prescott,all,0.01414,0.62924,0.36747,0.01610,166
+Hodrick-Prescott,to 2019,0.01427,0.44445,0.38571,0.01279,140

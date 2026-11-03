@@ -1,0 +1,4 @@
+filter,largest before,quarter before,largest after,quarter after
+Baxter-King,0.02592,2019Q2,0.01243,2022Q4
+Hamilton,-0.01546,2011Q1,0.10602,2022Q2
+Hodrick-Prescott,0.01709,2019Q4,0.01550,2021Q4
