@@ -23,7 +23,7 @@ The three filters define normal output in different ways:
 
 - The **Hodrick-Prescott filter** draws a smooth curve through the data. A single setting, lambda, decides how smooth the curve is. This project uses 1600, the usual value for quarterly data. The curve at any date depends on data both before and after it, so its reading of recent years can change as new data arrive.
 - The **Baxter-King filter** keeps only movements that repeat every 6 to 32 quarters, that is, from a year and a half to eight years. Slower and faster movements are dropped. It is a weighted average of the 12 quarters on each side of each date, so it has no value for the first and last three years of data.
-- The **Hamilton projection** compares output with what you would have predicted two years earlier. The prediction comes from a regression of output on a constant and its own values 8, 9, 10 and 11 quarters before. It uses only the past, so it has a value up to the latest quarter.
+- The **Hamilton projection** compares output with what you would have predicted two years earlier. The prediction comes from a regression of output on a constant and its own values 8, 9, 10 and 11 quarters before. Each prediction uses only earlier quarters, so it has a value up to the latest quarter, though the regression behind it is fitted once on all the data, so later quarters still move its earlier readings a little.
 
 ![Output with the Hodrick-Prescott trend and Hamilton's prediction](figures/trends.png)
 
